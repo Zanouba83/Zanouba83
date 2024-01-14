@@ -5,7 +5,7 @@
   - [CompTIA Security+](https://www.credly.com/badges/4c3d12b5-8eb4-4513-bcfa-f2c9fe686fed/public_url)
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Zanouba83/ActiveDirectoryHomeLab/blob/main/README.md))
 
 
 <h2>📺 Popular YouTube Videos:</h2>
